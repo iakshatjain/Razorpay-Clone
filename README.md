@@ -6,4 +6,4 @@ git clone https://github.com/iakshatjain/razorpay-clone.git
 Run the Development Server:
 npm run start
 
-Open your web browser and navigate to http://localhost:3000 to view the Razorpay clone.
+Open your web browser and navigate to local host to view the Razorpay clone.
